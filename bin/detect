@@ -1,4 +1,4 @@
-#!/app/bin/ruby
+#!/usr/bin/env ruby
 
 require 'pathname'
 
@@ -9,5 +9,3 @@ else
   puts "no"
   exit 1
 end
-
-###/usr/bin/env ruby
