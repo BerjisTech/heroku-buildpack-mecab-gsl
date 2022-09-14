@@ -1,4 +1,3 @@
-
 #!/app/bin/ruby ruby
 
 require 'pathname'
