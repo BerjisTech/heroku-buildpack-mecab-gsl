@@ -1,4 +1,4 @@
-#!/app/bin ruby
+#!/usr/bin/env bash
 require 'pathname'
 
 if Pathname.new(ARGV.first).join("Gemfile").exist?

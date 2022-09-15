@@ -1,4 +1,4 @@
-#!/app/bin ruby
+#!/usr/bin/env bash
 require 'pathname'
 
 release = Pathname.new(ARGV.first).join("tmp/heroku-buildpack-release-step.yml")
